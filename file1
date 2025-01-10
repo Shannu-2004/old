@@ -1,2 +1,6 @@
 file1
-this is shanmukh
+<<<<<<< HEAD
+this is shanmuk
+
+hi this is devops
+>>>>>>> branch1
